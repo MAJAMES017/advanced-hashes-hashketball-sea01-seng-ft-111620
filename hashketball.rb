@@ -174,7 +174,7 @@ def player_numbers(input)
       end
     end
   end
-output
+player_output
 end
 
 def player_stats(input)
